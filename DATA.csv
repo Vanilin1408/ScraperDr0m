@@ -1,53 +1,217 @@
 <id>,<model>,<equipment>,<description>,<price>,<location>,<link>
-1,"Volkswagen Golf, 2011",,"1.4 л (122 л.с.), бензин, робот, передний, 170 000 км",900000,Новороссийск (360 км),https://auto.drom.ru/novorossiysk/volkswagen/golf/876320229.html
-2,"Volkswagen Golf, 2009",,"1.6 л (102 л.с.), бензин, механика, передний, 252 070 км",830000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/627059657.html
-3,"Volkswagen Golf, 2012",1.4 MT Trendline 5dr.,"1.4 л (80 л.с.), бензин, механика, передний, 235 500 км",925000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/54154535.html
-4,"Volkswagen Golf, 2009",1.4 MT Comfortline 5dr.,"1.4 л (80 л.с.), бензин, механика, передний, 237 000 км",750000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/594925452.html
-5,"Volkswagen Golf, 2012",1.4 MT Trendline 3dr.,"1.4 л (80 л.с.), бензин, механика, передний, 210 000 км",950000,Куйбышево (850 км),https://auto.drom.ru/kuybyshevo/volkswagen/golf/168258071.html
-6,"Volkswagen Golf, 2012",1.6 MT Match 5dr.,"1.6 л (102 л.с.), бензин, механика, передний, 168 000 км",1180000,Евпатория (80 км),https://auto.drom.ru/yevpatoriya/volkswagen/golf/569865224.html
-7,"Volkswagen Golf, 2012",1.6 DSG Highline 5dr.,"1.6 л (102 л.с.), бензин, робот, передний, 200 000 км",1000000,Гурзуф (70 км),https://auto.drom.ru/gurzuf/volkswagen/golf/53491579.html
-8,"Volkswagen Golf, 2012",,"1.4 л (80 л.с.), бензин, механика, передний, 38 000 км",1300000,Выселки (550 км),https://auto.drom.ru/vyselki/volkswagen/golf/755560575.html
-9,"Volkswagen Golf, 2011",1.6 DSG Trendline 5dr.,"1.6 л (102 л.с.), бензин, робот, передний, 179 000 км",980000,Бахчисарай (40 км),https://auto.drom.ru/bakhchysaray/volkswagen/golf/378460301.html
-10,"Volkswagen Golf, 2011",,"1.4 л (122 л.с.), бензин, робот, передний, 217 530 км",1050000,Севастополь (80 км),https://auto.drom.ru/sevastopol/volkswagen/golf/53912168.html
-11,"Volkswagen Golf, 2010",1.6 MT Trendline 5dr.,"1.6 л (102 л.с.), бензин, механика, передний, 248 000 км",950000,Ейск (650 км),https://auto.drom.ru/eiysk/volkswagen/golf/53556688.html
-12,"Volkswagen Golf, 2011",,"1.4 л (122 л.с.), бензин, робот, передний",950000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/53746114.html
-13,"Volkswagen Golf, 2011",1.4 MT Comfortline 5dr.,"1.4 л (80 л.с.), бензин, механика, передний, 119 950 км",1350000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/254299906.html
-14,"Volkswagen Golf, 2012",1.4 TSI DSG Highline 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 265 000 км",990000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/53881913.html
-15,"Volkswagen Golf, 2011",,"1.4 л (160 л.с.), бензин, механика, передний",850000,Аксай (700 км),https://auto.drom.ru/aksay/volkswagen/golf/508782151.html
-16,"Volkswagen Golf, 2012",1.4 MT TSI Style 5dr.,"1.4 л (122 л.с.), бензин, механика, передний, 150 000 км",1100000,Ейск (650 км),https://auto.drom.ru/eiysk/volkswagen/golf/189402543.html
-17,"Volkswagen Golf, 2011",,"1.6 л (102 л.с.), бензин, робот, передний, 260 000 км",941000,Минеральные Воды (900 км),https://auto.drom.ru/minvody/volkswagen/golf/53867830.html
-18,"Volkswagen Golf, 2010",,"1.4 л (122 л.с.), бензин, робот, передний, 151 200 км",1150000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/53050813.html
-19,"Volkswagen Golf, 2010",,"1.6 л (102 л.с.), бензин, робот, передний, 280 000 км",830000,Евпатория (80 км),https://auto.drom.ru/yevpatoriya/volkswagen/golf/173490258.html
-20,"Volkswagen Golf, 2011",,"1.4 л (122 л.с.), бензин, робот, передний",980000,Новороссийск (360 км),https://auto.drom.ru/novorossiysk/volkswagen/golf/53077195.html
-21,"Volkswagen Golf, 2011",1.2 TSI MT Trendline 5dr.,"1.2 л (86 л.с.), бензин, механика, передний, 212 000 км",780000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/53518891.html
-22,"Volkswagen Golf, 2010",1.6 MT Trendline 5dr.,"1.6 л (102 л.с.), бензин, механика, передний, 266 484 км",700000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/525413314.html
-23,"Volkswagen Golf, 2012",1.4 TSI DSG Match 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 260 350 км",995000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/53835900.html
-24,"Volkswagen Golf, 2012",,"1.4 л (80 л.с.), бензин, механика, передний, 280 000 км,  синий",850000,Динская (500 км),https://auto.drom.ru/dinskaya/volkswagen/golf/740028927.html
-25,"Volkswagen Golf, 2011",1.4 TSI MT Style 5dr.,"1.4 л (122 л.с.), бензин, механика, передний, 270 000 км",820000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/54142900.html
-26,"Volkswagen Golf, 2010",1.6 MT Trendline 3dr.,"1.6 л (102 л.с.), бензин, механика, передний, 178 000 км",680000,Элиста (1 000 км),https://auto.drom.ru/elista/volkswagen/golf/54142184.html
-27,"Volkswagen Golf, 2012",1.2 TSI MT Match 5dr.,"1.2 л (86 л.с.), бензин, механика, передний, 143 000 км",950000,Ставрополь (750 км),https://auto.drom.ru/stavropol/volkswagen/golf/119171470.html
-28,"Volkswagen Golf, 2010",,"1.4 л (122 л.с.), бензин, механика, передний, 200 000 км",1222222,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/858630676.html
-29,"Volkswagen Golf, 2009",1.4 TSI DSG Highline 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 131 700 км",1020000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/54115157.html
-30,"Volkswagen Golf, 2011",,"1.6 л (102 л.с.), бензин, механика, передний, 217 000 км",850000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/53656566.html
-31,"Volkswagen Golf, 2010",Variant 1.4 TSI Trendline,"1.4 л (122 л.с.), бензин, робот, передний, 79 000 км",1139000,Тихорецк (600 км),https://auto.drom.ru/tikhoretsk/volkswagen/golf/53131705.html
-32,"Volkswagen Golf, 2010",,"1.4 л (122 л.с.), бензин, робот, передний, 254 000 км",865000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/368551706.html
-33,"Volkswagen Golf, 2011",2.0 TDI MT Trendline 5dr.,"2.0 л (110 л.с.), дизель, механика, передний, 280 000 км",1300000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/794002594.html
-34,"Volkswagen Golf, 2009",2.0 TSI DSG GTI 5dr.,"2.0 л (210 л.с.), бензин, робот, передний, 300 000 км",1390000,Темрюк (300 км),https://auto.drom.ru/temryuk/volkswagen/golf/53367257.html
-35,"Volkswagen Golf, 2012",1.2 TSI MT Comfortline 5dr.,"1.2 л (105 л.с.), бензин, механика, передний, 145 000 км",880000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/890655368.html
-36,"Volkswagen Golf, 2011",,"1.2 л (105 л.с.), бензин, механика, передний, 199 669 км",945000,Лабинск (650 км),https://auto.drom.ru/labinsk/volkswagen/golf/52255546.html
-37,"Volkswagen Golf, 2011",1.6 DSG Match 5dr.,"1.6 л (102 л.с.), бензин, робот, передний, 165 000 км",900000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/744563137.html
-38,"Volkswagen Golf, 2012",,"1.4 л (122 л.с.), бензин, робот, передний, 37 385 км",1750000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/812213168.html
-39,"Volkswagen Golf, 2012",1.6 MT Match 5dr.,"1.6 л (102 л.с.), бензин, механика, передний, 170 000 км",1050000,Красногвардейское (70 км),https://auto.drom.ru/krasnogvardeyskoe/volkswagen/golf/48717868.html
-40,"Volkswagen Golf, 2011",1.4 TSI DSG Highline 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 134 379 км",1250000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/53935700.html
-41,"Volkswagen Golf, 2012",,"1.6 л (102 л.с.), бензин, робот, передний, 240 000 км",930000,Саки (50 км),https://auto.drom.ru/saky/volkswagen/golf/53113313.html
-42,"Volkswagen Golf, 2012",,"1.4 л (122 л.с.), бензин, робот, передний, 237 000 км",1400000,Приветное (100 км),https://auto.drom.ru/privetnoe/volkswagen/golf/506223119.html
-43,"Volkswagen Golf, 2009",,"1.4 л (122 л.с.), бензин, робот, передний, 122 018 км",859000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/420465614.html
-44,"Volkswagen Golf, 2011",,"2.0 л (210 л.с.), бензин, робот, передний, 222 500 км",1490000,Тихорецк (600 км),https://auto.drom.ru/tikhoretsk/volkswagen/golf/53635614.html
-45,"Volkswagen Golf, 2011",1.4 TSI DSG Style 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 350 000 км",750000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/309311792.html
-46,"Volkswagen Golf, 2009",1.4 TSI DSG Highline 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 215 100 км",860000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/53957648.html
-47,"Volkswagen Golf, 2011",2.0 TDI MT Trendline 5dr.,"2.0 л (110 л.с.), дизель, механика, передний, 292 300 км",880000,Отрадная (800 км),https://auto.drom.ru/otradnaya/volkswagen/golf/49604787.html
-48,"Volkswagen Golf, 2012",,"1.4 л (122 л.с.), бензин, механика, передний, 185 000 км",750000,Усть-Лабинск (550 км),https://auto.drom.ru/ust-labinsk/volkswagen/golf/52257719.html
-49,"Volkswagen Golf, 2011",1.4 TSI DSG Style 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 247 304 км",1050000,Славянск-На-Кубани (370 км),https://auto.drom.ru/slavyansk-na-kubani/volkswagen/golf/53667924.html
-50,"Volkswagen Golf, 2010",1.4 TSI DSG Comfortline 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 144 000 км",1075000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/53932329.html
-51,"Volkswagen Golf, 2012",1.4 TSI DSG Match 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 187 000 км",1195000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/728487091.html
-52,"Volkswagen Golf, 2012",1.6 MT Match 5dr.,"1.6 л (102 л.с.), бензин, механика, передний, 120 000 км",888000,Кропоткин (600 км),https://auto.drom.ru/kropotkin/volkswagen/golf/212989927.html
+1,"Volkswagen Golf, 2008",1.6 MT Comfortline 5dr.,"1.6 л (102 л.с.), бензин, механика, передний, 218 000 км",869000,Севастополь (80 км),https://auto.drom.ru/sevastopol/volkswagen/golf/713007591.html
+2,"Volkswagen Golf, 2019",1.6 TDI DSG Comfortline,"1.6 л (115 л.с.), дизель, робот, передний, 101 000 км",1650000,Ставрополь (750 км),https://auto.drom.ru/stavropol/volkswagen/golf/833491140.html
+3,"Volkswagen Golf, 1995",,"1.6 л (75 л.с.), бензин, механика, передний",150000,Зеленчукская (800 км),https://auto.drom.ru/zelenchukskaya/volkswagen/golf/741771735.html
+4,"Volkswagen Golf, 2010",1.4 TSI DSG Highline 3dr.,"1.4 л (122 л.с.), бензин, робот, передний, 228 000 км",1050000,Евпатория (80 км),https://auto.drom.ru/yevpatoriya/volkswagen/golf/542239121.html
+5,"Volkswagen Golf, 2020",,"1.4 л (150 л.с.), гибрид, робот, передний, 74 000 км",2950000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/459973758.html
+6,"Volkswagen Golf, 2018",2.0 TSI DSG GTI 5dr.,"2.0 л (220 л.с.), бензин, робот, передний, 82 000 км",2550000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/765007905.html
+7,"Volkswagen Golf, 2011",1.4 TSI DSG Style 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 247 304 км",985000,Славянск-На-Кубани (370 км),https://auto.drom.ru/slavyansk-na-kubani/volkswagen/golf/53667924.html
+8,"Volkswagen Golf, 2014",1.4 TSI DSG Highline,"1.4 л (140 л.с.), бензин, робот, передний, 85 000 км",1490000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/494498173.html
+9,"Volkswagen Golf, 2010",,"1.6 л (102 л.с.), бензин, робот, передний, 65 000 км",1289000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/644411022.html
+10,"Volkswagen Golf, 1986",,"1.8 л (90 л.с.), бензин, механика, передний, 100 000 км",110000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/925590553.html
+11,"Volkswagen Golf, 1995",,"1.6 л (75 л.с.), бензин, механика, передний, 29 000 км",275000,Севастополь (80 км),https://auto.drom.ru/sevastopol/volkswagen/golf/714370867.html
+12,"Volkswagen Golf, 2018",1.4 TSI DSG R-Line 5dr.,"1.4 л (125 л.с.), бензин, робот, передний, 80 000 км",2280000,Сочи (650 км),https://auto.drom.ru/sochi/volkswagen/golf/321025892.html
+13,"Volkswagen Golf, 1998",1.6 MT Base 5dr.,"1.6 л (100 л.с.), бензин, механика, передний, 320 000 км",475000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/167918625.html
+14,"Volkswagen Golf, 2013",1.4 TSI DSG Highline 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 200 000 км",1300000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/118306944.html
+15,"Volkswagen Golf, 2015",,"1.4 л (140 л.с.), бензин, автомат, передний, 73 666 км",1494567,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/40132108.html
+16,"Volkswagen Golf, 1995",,"1.8 л (75 л.с.), бензин, механика, передний, 300 000 км",365000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/506917287.html
+17,"Volkswagen Golf, 2000",,"1.4 л (75 л.с.), бензин, механика, передний, 220 000 км",310000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/825351975.html
+18,"Volkswagen Golf, 1996",1.8 MT GT 5dr.,"1.8 л (90 л.с.), бензин, механика, передний, 250 000 км",130000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/538075953.html
+19,"Volkswagen Golf, 2003",,"1.6 л (102 л.с.), бензин, механика, передний, 240 000 км",370000,Ирклиевская (550 км),https://auto.drom.ru/irklievskaya/volkswagen/golf/866196224.html
+20,"Volkswagen Golf, 2011",2.0 TSI DSG GTI 5dr.,"2.0 л (210 л.с.), бензин, робот, передний, 224 649 км",1620000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/109309686.html
+21,"Volkswagen Golf, 2002",1.4 MT 3dr.,"1.4 л (75 л.с.), бензин, механика, передний, 350 000 км",360000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/838917314.html
+22,"Volkswagen Golf, 2011",,"1.6 л (102 л.с.), бензин, робот, передний, 210 000 км",890000,Бахчисарай (40 км),https://auto.drom.ru/bakhchysaray/volkswagen/golf/777523687.html
+23,"Volkswagen Golf, 2001",,"1.6 л (105 л.с.), бензин, механика, передний, 270 000 км",600000,Шахты (800 км),https://auto.drom.ru/shahty/volkswagen/golf/503765646.html
+24,"Volkswagen Golf, 2001",1.4 MT Comfortline 5dr.,"1.4 л (75 л.с.), бензин, механика, передний, 315 000 км",500000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/51058828.html
+25,"Volkswagen Golf, 1995",1.4 MT CL Europe 5dr.,"1.4 л (60 л.с.), бензин, механика, передний, 126 000 км",175000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/757750774.html
+26,"Volkswagen Golf, 1991",,"1.8 л (75 л.с.), бензин, механика, передний, 158 595 км",180000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/478665868.html
+27,"Volkswagen Golf, 2007",1.6 MT Trendline 5dr.,"1.6 л (102 л.с.), бензин, механика, передний, 256 000 км",800000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/383681776.html
+28,"Volkswagen Golf, 1994",1.4 MT CL 5dr.,"1.4 л (60 л.с.), бензин, механика, передний, 166 000 км",225000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/213834936.html
+29,"Volkswagen Golf, 1993",,"1.6 л (75 л.с.), бензин, механика, передний, 333 333 км",199999,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/787673083.html
+30,"Volkswagen Golf, 2001",,"1.6 л (105 л.с.), бензин, механика, передний, 187 000 км",349000,Севастополь (80 км),https://auto.drom.ru/sevastopol/volkswagen/golf/704664152.html
+31,"Volkswagen Golf, 2019",,"1.6 л (115 л.с.), дизель, механика, передний, 103 000 км",1960000,Крымск (360 км),https://auto.drom.ru/krymsk/volkswagen/golf/931515777.html
+32,"Volkswagen Golf, 2007",1.4 MT Economy 5dr.,"1.4 л (80 л.с.), бензин, механика, передний",765000,Кропоткин (600 км),https://auto.drom.ru/kropotkin/volkswagen/golf/543904482.html
+33,"Volkswagen Golf, 2013",,"1.2 л (105 л.с.), бензин, автомат, передний, 205 737 км",1177000,Севастополь (80 км),https://auto.drom.ru/sevastopol/volkswagen/golf/922784776.html
+34,"Volkswagen Golf, 1993",,"1.8 л (90 л.с.), бензин, механика, передний, 226 000 км",120000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/53990955.html
+35,"Volkswagen Golf, 2012",1.4 TSI MT Trendline 5dr.,"1.4 л (122 л.с.), бензин, механика, передний, 138 000 км",1335000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/564067355.html
+36,"Volkswagen Golf, 1989",,"1.6 л (54 л.с.), дизель, механика, передний, 200 000 км",85000,Горячий Ключ (550 км),https://auto.drom.ru/goryachiy-kluch/volkswagen/golf/942295231.html
+37,"Volkswagen Golf, 1998",,"1.6 л (101 л.с.), бензин, механика, передний, 35 000 км",355000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/942305314.html
+38,"Volkswagen Golf, 2013",1.2 TSI DSG Comfortline 5dr.,"1.2 л (105 л.с.), бензин, робот, передний, 146 000 км",1050000,Севастополь (80 км),https://auto.drom.ru/sevastopol/volkswagen/golf/788078614.html
+39,"Volkswagen Golf, 2012",,"1.4 л (122 л.с.), бензин, робот, передний, 204 000 км",970000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/749316380.html
+40,"Volkswagen Golf, 1999",1.4 MT Trendline 5dr.,"1.4 л (75 л.с.), бензин, механика, передний, 370 000 км",360000,Сочи (650 км),https://auto.drom.ru/sochi/volkswagen/golf/510658872.html
+41,"Volkswagen Golf, 2000",1.4 MT Base 5dr.,"1.4 л (75 л.с.), бензин, механика, передний, 321 км",420000,Джанкой (100 км),https://auto.drom.ru/dzhankoy/volkswagen/golf/486156742.html
+42,"Volkswagen Golf, 2008",,"1.6 л (102 л.с.), бензин, механика, передний, 86 993 км",1079000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/377817856.html
+43,"Volkswagen Golf, 2007",1.4 TSI DSG Trendline 3dr.,"1.4 л (140 л.с.), бензин, робот, передний, 212 000 км",865000,Армавир (700 км),https://auto.drom.ru/armavir/volkswagen/golf/189170279.html
+44,"Volkswagen Golf, 2002",1.4 MT 3dr.,"1.4 л (75 л.с.), бензин, механика, передний, 293 000 км",420000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/679478978.html
+45,"Volkswagen Golf, 2000",1.4 MT Comfortline 5dr.,"1.4 л (75 л.с.), бензин, механика, передний, 250 000 км",510000,Старый Крым (100 км),https://auto.drom.ru/stariy-krym/volkswagen/golf/52805535.html
+46,"Volkswagen Golf, 2013",1.4 TSI DSG Highline 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 140 000 км",1630000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/52128433.html
+47,"Volkswagen Golf, 2000",1.6 AT Base 5dr.,"1.6 л (102 л.с.), бензин, АКПП, передний, 304 000 км",450000,Донецк (850 км),https://auto.drom.ru/donetsk/volkswagen/golf/936130079.html
+48,"Volkswagen Golf, 2012",1.4 TSI DSG Style 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 183 000 км",1290000,Черноморское (150 км),https://auto.drom.ru/chernomorskoe/volkswagen/golf/511357517.html
+49,"Volkswagen Golf, 1992",,"1.8 л (75 л.с.), бензин, механика, передний, 145 000 км",250000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/110982695.html
+50,"Volkswagen Golf, 1995",1.8 MT CL Europe 5dr.,"1.8 л (75 л.с.), бензин, механика, передний, 189 000 км",185000,Таганрог (800 км),https://auto.drom.ru/taganrog/volkswagen/golf/249421702.html
+51,"Volkswagen Golf, 2001",,"1.6 л (102 л.с.), бензин, механика, передний, 333 333 км",399999,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/861531160.html
+52,"Volkswagen Golf, 2015",Variant 1.4 TSI Highline,"1.4 л (140 л.с.), бензин, робот, передний, 138 000 км",1495000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/569389842.html
+53,"Volkswagen Golf, 2012",1.6 DSG Match 5dr.,"1.6 л (102 л.с.), бензин, робот, передний, 210 000 км",1100000,Феодосия (120 км),https://auto.drom.ru/feodosiya/volkswagen/golf/446784929.html
+54,"Volkswagen Golf, 2004",,"1.6 л (102 л.с.), бензин, АКПП, передний, 184 000 км",610000,Приморско-Ахтарск (550 км),https://auto.drom.ru/primorsko-ahtarsk/volkswagen/golf/520518500.html
+55,"Volkswagen Golf, 2007",1.6 Tiptronic Tour 3dr.,"1.6 л (102 л.с.), бензин, АКПП, передний, 201 102 км",575000,Верхнерусское (750 км),https://auto.drom.ru/verhnerusskoe/volkswagen/golf/343023185.html
+56,"Volkswagen Golf, 2013",,"1.2 л (105 л.с.), бензин, робот, передний, 132 000 км",1295000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/384709600.html
+57,"Volkswagen Golf, 2011",1.6 DSG Highline 5dr.,"1.6 л (102 л.с.), бензин, робот, передний, 175 000 км",1100000,Евпатория (80 км),https://auto.drom.ru/yevpatoriya/volkswagen/golf/160513483.html
+58,"Volkswagen Golf, 2009",1.6 DSG Team 5dr.,"1.6 л (102 л.с.), бензин, робот, передний, 204 000 км",990000,Евпатория (80 км),https://auto.drom.ru/yevpatoriya/volkswagen/golf/200472302.html
+59,"Volkswagen Golf, 2003",1.4 MT Economy 3dr.,"1.4 л (75 л.с.), бензин, механика, передний, 500 000 км",600000,Новороссийск (360 км),https://auto.drom.ru/novorossiysk/volkswagen/golf/604162544.html
+60,"Volkswagen Golf, 1997",,"1.6 л (90 л.с.), бензин, автомат, передний, 263 900 км",300000,Новороссийск (360 км),https://auto.drom.ru/novorossiysk/volkswagen/golf/712442905.html
+61,"Volkswagen Golf, 1988",1.6 MT,"1.6 л (72 л.с.), бензин, механика, передний, 343 000 км",330000,Бахчисарай (40 км),https://auto.drom.ru/bakhchysaray/volkswagen/golf/703641609.html
+62,"Volkswagen Golf, 1992",2.0 MT GTI 5dr.,"2.0 л (115 л.с.), бензин, механика, передний, 167 000 км",200000,Донецк (850 км),https://auto.drom.ru/donetsk/volkswagen/golf/654611478.html
+63,"Volkswagen Golf, 2008",1.4 TSI MT Trendline 5dr.,"1.4 л (122 л.с.), бензин, механика, передний, 113 000 км",1050000,Новороссийск (360 км),https://auto.drom.ru/novorossiysk/volkswagen/golf/385247953.html
+64,"Volkswagen Golf, 2002",,"1.4 л (75 л.с.), бензин, механика, передний, 250 000 км",550000,Павловская (600 км),https://auto.drom.ru/pavlovskaya/volkswagen/golf/381042094.html
+65,"Volkswagen Golf, 2013",1.2 TSI DSG Trendline 5dr.,"1.2 л (105 л.с.), бензин, робот, передний, 179 000 км",1180000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/111044350.html
+66,"Volkswagen Golf, 1990",,"1.6 л (69 л.с.), бензин, механика, передний, 320 000 км",220000,Армавир (700 км),https://auto.drom.ru/armavir/volkswagen/golf/53637951.html
+67,"Volkswagen Golf, 2024",1.4 280 TSI DSG R-Line Lite 5dr.,"1.4 л (150 л.с.), бензин, робот, передний, 50 км",3690000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/502605602.html
+68,"Volkswagen Golf, 2009",1.4 TSI DSG Comfortline,"1.4 л (122 л.с.), бензин, робот, передний, 272 777 км",870000,Севастополь (80 км),https://auto.drom.ru/sevastopol/volkswagen/golf/126653045.html
+69,"Volkswagen Golf, 2010",1.4 TSI DSG Comfortline 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 144 000 км",999000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/53932329.html
+70,"Volkswagen Golf, 2010",2.0 TSI DSG GTI 5dr.,"2.0 л (210 л.с.), бензин, робот, передний, 184 785 км",1560000,Новороссийск (360 км),https://auto.drom.ru/novorossiysk/volkswagen/golf/887990337.html
+71,"Volkswagen Golf, 2012",1.6 MT Trendline 5dr.,"1.6 л (102 л.с.), бензин, механика, передний, 272 685 км",1050000,Пятигорск (900 км),https://auto.drom.ru/pyatigorsk/volkswagen/golf/824968724.html
+72,"Volkswagen Golf, 1990",1.6D MT CL,"1.6 л (54 л.с.), дизель, механика, передний, 350 000 км",150000,Кропоткин (600 км),https://auto.drom.ru/kropotkin/volkswagen/golf/627059155.html
+73,"Volkswagen Golf, 2001",,"1.6 л (110 л.с.), бензин, механика, передний, 236 000 км",650000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/344816706.html
+74,"Volkswagen Golf, 2013",,"1.4 л (122 л.с.), бензин, механика, передний, 163 895 км",1379000,Ставрополь (750 км),https://auto.drom.ru/stavropol/volkswagen/golf/325815152.html
+75,"Volkswagen Golf, 2011",1.4 TSI DSG Style 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 350 000 км",700000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/309311792.html
+76,"Volkswagen Golf, 2013",1.2 TSI DSG Comfortline 5dr.,"1.2 л (105 л.с.), бензин, робот, передний, 140 000 км",700000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/295990249.html
+77,"Volkswagen Golf, 2011",2.0 TDI MT Trendline 5dr.,"2.0 л (110 л.с.), дизель, механика, передний, 292 300 км",850000,Отрадная (800 км),https://auto.drom.ru/otradnaya/volkswagen/golf/49604787.html
+78,"Volkswagen Golf, 2011",1.4 TSI DSG Style 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 203 000 км",1349000,Евпатория (80 км),https://auto.drom.ru/yevpatoriya/volkswagen/golf/752895383.html
+79,"Volkswagen Golf, 1996",,"1.6 л (75 л.с.), бензин, механика, передний, 200 000 км",250000,Саки (50 км),https://auto.drom.ru/saky/volkswagen/golf/630018043.html
+80,"Volkswagen Golf, 2012",1.4 TSI DSG Highline 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 102 000 км",1220000,Целина (750 км),https://auto.drom.ru/tselina/volkswagen/golf/593339905.html
+81,"Volkswagen Golf, 2009",1.4 TSI MT Highline 5dr.,"1.4 л (122 л.с.), бензин, механика, передний, 98 000 км",1150000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/532093564.html
+82,"Volkswagen Golf, 2011",1.2 TSI MT Trendline 5dr.,"1.2 л (86 л.с.), бензин, механика, передний, 212 000 км",757000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/717905294.html
+83,"Volkswagen Golf, 1986",1.3 MT CL,"1.3 л (55 л.с.), бензин, механика, передний, 320 000 км",160000,Таганрог (800 км),https://auto.drom.ru/taganrog/volkswagen/golf/222899825.html
+84,"Volkswagen Golf, 2009",,"1.4 л (160 л.с.), бензин, робот, передний, 209 780 км",1350000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/184784891.html
+85,"Volkswagen Golf, 2006",,"1.6 л (102 л.с.), бензин, механика, передний, 252 000 км",615000,Константиновск (850 км),https://auto.drom.ru/konstantinovsk/volkswagen/golf/163801378.html
+86,"Volkswagen Golf, 2007",,"1.6 л (102 л.с.), бензин, АКПП, передний, 266 000 км",555000,Новороссийск (360 км),https://auto.drom.ru/novorossiysk/volkswagen/golf/542834006.html
+87,"Volkswagen Golf, 2011",1.4 TSI DSG Style 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 247 304 км",985000,Славянск-На-Кубани (370 км),https://auto.drom.ru/slavyansk-na-kubani/volkswagen/golf/546128564.html
+88,"Volkswagen Golf, 2001",,"1.6 л (105 л.с.), бензин, механика, передний, 8 000 км",370000,Полтавская (380 км),https://auto.drom.ru/poltavskaya/volkswagen/golf/177293559.html
+89,"Volkswagen Golf, 2006",1.6 Tiptronic Trendline 5dr.,"1.6 л (102 л.с.), бензин, АКПП, передний, 250 000 км",670000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/694064125.html
+90,"Volkswagen Golf, 2004",1.4 MT Economy 5dr.,"1.4 л (75 л.с.), бензин, механика, передний",299000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/854277826.html
+91,"Volkswagen Golf, 1988",,"1.6 л (72 л.с.), бензин, механика, передний, 564 000 км",110000,Новодмитриевская (450 км),https://auto.drom.ru/novodmitrievskaya/volkswagen/golf/513267395.html
+92,"Volkswagen Golf, 2017",2.0 TSI DSG 4Motion R,"2.0 л (310 л.с.), бензин, робот, 4WD, 156 000 км",3199999,Ставрополь (750 км),https://auto.drom.ru/stavropol/volkswagen/golf/124075408.html
+93,"Volkswagen Golf, 1992",1.9 TD MT GTD 3dr.,"1.9 л (75 л.с.), дизель, механика, передний, 50 000 км",210000,Севастополь (80 км),https://auto.drom.ru/sevastopol/volkswagen/golf/936278416.html
+94,"Volkswagen Golf, 2009",1.4 TSI DSG Team 5dr.,"1.4 л (160 л.с.), бензин, робот, передний, 300 000 км",1050000,Сочи (650 км),https://auto.drom.ru/sochi/volkswagen/golf/653495780.html
+95,"Volkswagen Golf, 2009",,"1.4 л (122 л.с.), бензин, робот, передний, 261 000 км",820000,Ставрополь (750 км),https://auto.drom.ru/stavropol/volkswagen/golf/841844151.html
+96,"Volkswagen Golf, 2014",1.4 TSI DSG Trendline 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 173 000 км",1500000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/490423004.html
+97,"Volkswagen Golf, 1985",,"1.6 л (70 л.с.), дизель, механика, передний, 280 000 км",250000,Донецк (850 км),https://auto.drom.ru/donetsk/volkswagen/golf/276372700.html
+98,"Volkswagen Golf, 1986",,"1.3 л (55 л.с.), бензин, механика, передний, 7 056 км",270000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/53583736.html
+99,"Volkswagen Golf, 2012",,"1.4 л (122 л.с.), бензин, робот, передний, 149 000 км",900000,Новороссийск (360 км),https://auto.drom.ru/novorossiysk/volkswagen/golf/709766967.html
+100,"Volkswagen Golf, 2014",1.4 TSI DSG Highline 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 15 000 км",1950000,Майкоп (600 км),https://auto.drom.ru/maykop/volkswagen/golf/664553192.html
+101,"Volkswagen Golf, 2000",1.6 MT 5dr.,"1.6 л (105 л.с.), бензин, механика, передний, 220 000 км",410000,Гулькевичи (650 км),https://auto.drom.ru/gulkevichi/volkswagen/golf/814403586.html
+102,"Volkswagen Golf, 1992",2.0 MT GTI 5dr.,"2.0 л (115 л.с.), бензин, механика, передний, 360 000 км",320000,Джанкой (100 км),https://auto.drom.ru/dzhankoy/volkswagen/golf/880665045.html
+103,"Volkswagen Golf, 2007",,"1.6 л (102 л.с.), бензин, АКПП, передний, 275 км",850000,Анапа (320 км),https://auto.drom.ru/anapa/volkswagen/golf/417392967.html
+104,"Volkswagen Golf, 1995",1.4 MT CL Europe 5dr.,"1.4 л (60 л.с.), бензин, механика, передний, 253 611 км",260000,Севастополь (80 км),https://auto.drom.ru/sevastopol/volkswagen/golf/292857240.html
+105,"Volkswagen Golf, 1989",,"1.6 л (72 л.с.), бензин, механика, передний, 777 км",60000,Горячий Ключ (550 км),https://auto.drom.ru/goryachiy-kluch/volkswagen/golf/168439504.html
+106,"Volkswagen Golf, 2014",,"1.4 л (122 л.с.), бензин, робот, передний, 193 674 км",1750000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/432912599.html
+107,"Volkswagen Golf, 1987",,"1.3 л (90 л.с.), бензин, механика, передний, 500 000 км",110000,Армавир (700 км),https://auto.drom.ru/armavir/volkswagen/golf/200545780.html
+108,"Volkswagen Golf, 1999",,"1.4 л (75 л.с.), бензин, механика, передний, 300 000 км",420000,Сочи (650 км),https://auto.drom.ru/sochi/volkswagen/golf/693579361.html
+109,"Volkswagen Golf, 2019",1.5 TSI ACT MT Comfortline 5dr.,"1.5 л (130 л.с.), бензин, механика, передний, 168 500 км",1500000,Геленджик (390 км),https://auto.drom.ru/gelendzhik/volkswagen/golf/49754917.html
+110,"Volkswagen Golf, 1993",,"1.6 л (75 л.с.), бензин, механика, передний, 150 000 км",75000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/273775531.html
+111,"Volkswagen Golf, 2008",1.4 TSI DSG GT Sport 3dr.,"1.4 л (140 л.с.), бензин, робот, передний, 238 000 км",850000,Новороссийск (360 км),https://auto.drom.ru/novorossiysk/volkswagen/golf/384982778.html
+112,"Volkswagen Golf, 2007",1.6 MT Tour 5dr.,"1.6 л (102 л.с.), бензин, механика, передний, 216 844 км",780000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/403182019.html
+113,"Volkswagen Golf, 2009",1.4 TSI DSG Team 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 205 000 км",890000,Ленинградская (600 км),https://auto.drom.ru/leningradskaya/volkswagen/golf/131142544.html
+114,"Volkswagen Golf, 2010",1.6 MT Trendline 5dr.,"1.6 л (102 л.с.), бензин, механика, передний, 248 000 км",950000,Ейск (650 км),https://auto.drom.ru/eiysk/volkswagen/golf/53556688.html
+115,"Volkswagen Golf, 1998",,"1.4 л (75 л.с.), бензин, механика, передний, 462 200 км",270000,Таганрог (800 км),https://auto.drom.ru/taganrog/volkswagen/golf/183545692.html
+116,"Volkswagen Golf, 2018",1.8 TSI MT S 5dr.,"1.8 л (170 л.с.), бензин, механика, передний, 78 000 км",2200000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/778519569.html
+117,"Volkswagen Golf, 2004",1.4 MT Economy 5dr.,"1.4 л (75 л.с.), бензин, механика, передний, 296 000 км",530000,Сочи (650 км),https://auto.drom.ru/sochi/volkswagen/golf/895487663.html
+118,"Volkswagen Golf, 2013",,"1.2 л (105 л.с.), бензин, робот, передний, 245 000 км",830000,Алушта (50 км),https://auto.drom.ru/alushta/volkswagen/golf/438255401.html
+119,"Volkswagen Golf, 2012",,"1.4 л (122 л.с.), бензин, механика, передний, 115 000 км",1000000,Новороссийск (360 км),https://auto.drom.ru/novorossiysk/volkswagen/golf/183215056.html
+120,"Volkswagen Golf, 1995",,"1.6 л (75 л.с.), бензин, механика, передний, 250 000 км",385000,Кропоткин (600 км),https://auto.drom.ru/kropotkin/volkswagen/golf/596435007.html
+121,"Volkswagen Golf, 2002",,"1.6 л (102 л.с.), бензин, АКПП, передний, 254 000 км",600000,Керчь (210 км),https://auto.drom.ru/kerch/volkswagen/golf/574732630.html
+122,"Volkswagen Golf, 2002",2.0 MT,"2.0 л (115 л.с.), бензин, механика, передний, 99 000 км",1060000,Анапа (320 км),https://auto.drom.ru/anapa/volkswagen/golf/697465386.html
+123,"Volkswagen Golf, 1999",1.9 TDI MT 3dr.,"1.9 л (90 л.с.), дизель, механика, передний, 538 000 км",270000,Ессентукская (900 км),https://auto.drom.ru/essentukskaya/volkswagen/golf/53896606.html
+124,"Volkswagen Golf, 2000",,"1.6 л (100 л.с.), бензин, АКПП, передний, 263 000 км",410000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/514701956.html
+125,"Volkswagen Golf, 2011",,"1.6 л (102 л.с.), бензин, механика, передний, 277 200 км",1050000,Евпатория (80 км),https://auto.drom.ru/yevpatoriya/volkswagen/golf/868565890.html
+126,"Volkswagen Golf, 1994",,"1.6 л (75 л.с.), бензин, механика, передний, 200 000 км",60000,Сочи (650 км),https://auto.drom.ru/sochi/volkswagen/golf/110099569.html
+127,"Volkswagen Golf, 1994",,"1.8 л (90 л.с.), бензин, механика, передний, 225 319 км",185000,Новороссийск (360 км),https://auto.drom.ru/novorossiysk/volkswagen/golf/870073492.html
+128,"Volkswagen Golf, 1992",1.8 MT GT 5dr.,"1.8 л (90 л.с.), бензин, механика, передний, 170 000 км",199000,Изобильный (700 км),https://auto.drom.ru/izobilniy/volkswagen/golf/900495631.html
+129,"Volkswagen Golf, 1989",,"1.3 л (55 л.с.), бензин, механика, передний, 15 000 км",370000,Новороссийск (360 км),https://auto.drom.ru/novorossiysk/volkswagen/golf/674752745.html
+130,"Volkswagen Golf, 1985",1.3 MT C,"1.3 л (55 л.с.), бензин, механика, передний, 350 000 км",110000,Старолеушковская (600 км),https://auto.drom.ru/staroleushkovskaya/volkswagen/golf/427735496.html
+131,"Volkswagen Golf, 2011",,"1.4 л (122 л.с.), бензин, робот, передний, 215 000 км",1150000,Ессентуки (900 км),https://auto.drom.ru/yessentuki/volkswagen/golf/907580374.html
+132,"Volkswagen Golf, 1999",,"1.4 л (75 л.с.), бензин, механика, передний, 250 000 км",350000,Аксай (700 км),https://auto.drom.ru/aksay/volkswagen/golf/642864866.html
+133,"Volkswagen Golf, 2000",1.9 TDI MT 5dr.,"1.9 л (90 л.с.), дизель, АКПП, передний, 268 400 км",750000,Керчь (210 км),https://auto.drom.ru/kerch/volkswagen/golf/132803275.html
+134,"Volkswagen Golf, 1984",1.8 MT Carat,"1.8 л (90 л.с.), бензин, механика, передний, 160 000 км",220000,Новосёловское (110 км),https://auto.drom.ru/novoselovskoe/volkswagen/golf/794314944.html
+135,"Volkswagen Golf, 2005",,"1.6 л (102 л.с.), бензин, механика, передний",575000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/777308316.html
+136,"Volkswagen Golf, 2019",1.2 TSI Comfortline Meister,"1.2 л (105 л.с.), бензин, робот, передний, 20 700 км",2197000,Новороссийск (360 км),https://auto.drom.ru/novorossiysk/volkswagen/golf/614491216.html
+137,"Volkswagen Golf, 1987",1.8 MT GTI,"1.8 л (139 л.с.), бензин, механика, передний, 5 000 км",400000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/446685337.html
+138,"Volkswagen Golf, 2004",1.6 MT Comfortline 3dr.,"1.6 л (102 л.с.), бензин, механика, передний, 490 000 км",530000,Керчь (210 км),https://auto.drom.ru/kerch/volkswagen/golf/554856546.html
+139,"Volkswagen Golf, 2010",,"1.4 л (122 л.с.), бензин, робот, передний, 151 200 км",1150000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/53050813.html
+140,"Volkswagen Golf, 2010",,"1.6 л (102 л.с.), бензин, робот, передний, 202 000 км",950000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/255772594.html
+141,"Volkswagen Golf, 2007",2.0 FSI DSG GTI 3dr.,"2.0 л (200 л.с.), бензин, робот, передний, 183 500 км",1300000,Севастополь (80 км),https://auto.drom.ru/sevastopol/volkswagen/golf/741008291.html
+142,"Volkswagen Golf, 2010",,"1.4 л (122 л.с.), бензин, робот, передний, 260 000 км",940000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/419550205.html
+143,"Volkswagen Golf, 1985",1.8 MT GTI,"1.8 л (112 л.с.), бензин, механика, передний, 5 500 км",650000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/577766866.html
+144,"Volkswagen Golf, 2018",2.0 TSI MT GTI 5dr.,"2.0 л (230 л.с.), бензин, механика, передний, 78 000 км",2300000,Сочи (650 км),https://auto.drom.ru/sochi/volkswagen/golf/565378360.html
+145,"Volkswagen Golf, 2010",Variant 1.4 TSI Trendline,"1.4 л (122 л.с.), бензин, робот, передний, 79 000 км",1109000,Тихорецк (600 км),https://auto.drom.ru/tikhoretsk/volkswagen/golf/53131705.html
+146,"Volkswagen Golf, 2014",1.2 TSI MT Comfortline 5dr.,"1.2 л (85 л.с.), бензин, механика, передний, 200 000 км",1400000,Новороссийск (360 км),https://auto.drom.ru/novorossiysk/volkswagen/golf/423897393.html
+147,"Volkswagen Golf, 2004",1.4 FSI MT Comfortline 5dr.,"1.4 л (90 л.с.), бензин, механика, передний, 220 000 км",700000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/874463896.html
+148,"Volkswagen Golf, 2009",,"1.4 л (122 л.с.), бензин, робот, передний, 245 000 км",870000,Евпатория (80 км),https://auto.drom.ru/yevpatoriya/volkswagen/golf/375924543.html
+149,"Volkswagen Golf, 2021",2.0 380 TSI DSG GTI 5dr.,"2.0 л (220 л.с.), бензин, робот, передний, 28 000 км",3350000,Севастополь (80 км),https://auto.drom.ru/sevastopol/volkswagen/golf/450106188.html
+150,"Volkswagen Golf, 2012",1.4 TSI DSG Match 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 260 350 км",955000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/53835900.html
+151,"Volkswagen Golf, 2010",,"1.6 л (102 л.с.), бензин, механика, передний, 280 000 км",840000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/842370341.html
+152,"Volkswagen Golf, 2003",1.6 E,"1.6 л (102 л.с.), бензин, АКПП, передний, 210 000 км",200000,Хадыженск (600 км),https://auto.drom.ru/hadyzhensk/volkswagen/golf/327652810.html
+153,"Volkswagen Golf, 2006",,"1.6 л (102 л.с.), бензин, АКПП, передний, 235 000 км",280000,Славянск-На-Кубани (370 км),https://auto.drom.ru/slavyansk-na-kubani/volkswagen/golf/741310305.html
+154,"Volkswagen Golf, 1996",,"1.8 л (75 л.с.), бензин, механика, передний, 127 583 км",255000,Ялта (90 км),https://auto.drom.ru/yalta/volkswagen/golf/376382890.html
+155,"Volkswagen Golf, 2012",2.0 TSI DSG GTI 5dr.,"2.0 л (210 л.с.), бензин, робот, передний, 185 000 км",1550000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/539312200.html
+156,"Volkswagen Golf, 1987",1.6D MT CL,"1.6 л (54 л.с.), дизель, механика, передний, 122 231 км",250000,Красногвардейское (70 км),https://auto.drom.ru/krasnogvardeyskoe/volkswagen/golf/943827425.html
+157,"Volkswagen Golf, 2010",,"1.4 л (122 л.с.), бензин, механика, передний, 200 000 км",980000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/858630676.html
+158,"Volkswagen Golf, 1993",,"1.8 л (90 л.с.), бензин, АКПП, передний, 999 км",200000,Сочи (650 км),https://auto.drom.ru/sochi/volkswagen/golf/462401440.html
+159,"Volkswagen Golf, 1995",,"1.6 л (75 л.с.), бензин, механика, передний, 273 416 км",245000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/270503027.html
+160,"Volkswagen Golf, 2013",,"1.4 л (122 л.с.), бензин, робот, передний, 207 000 км",1600000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/204733736.html
+161,"Volkswagen Golf, 2001",1.4 MT Base 5dr.,"1.4 л (75 л.с.), бензин, механика, передний, 240 000 км",350000,Бахчисарай (40 км),https://auto.drom.ru/bakhchysaray/volkswagen/golf/51346101.html
+162,"Volkswagen Golf, 2012",,"1.4 л (122 л.с.), бензин, механика, передний, 250 000 км",900000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/873889697.html
+163,"Volkswagen Golf, 2014",1.2 TSI DSG Comfortline 5dr.,"1.2 л (105 л.с.), бензин, робот, передний, 97 749 км",1600000,Элиста (1 000 км),https://auto.drom.ru/elista/volkswagen/golf/117064238.html
+164,"Volkswagen Golf, 2013",1.4 TSI Comfortline 5dr.,"1.4 л (122 л.с.), бензин, механика, передний, 284 000 км",1110000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/931077601.html
+165,"Volkswagen Golf, 2005",1.6 MT Comfortline 5dr.,"1.6 л (102 л.с.), бензин, механика, передний, 277 000 км",580000,Красноперекопск (130 км),https://auto.drom.ru/krasnoperekopsk/volkswagen/golf/320502278.html
+166,"Volkswagen Golf, 2013",,"1.4 л (122 л.с.), бензин, робот, передний, 167 400 км",1270000,Сочи (650 км),https://auto.drom.ru/sochi/volkswagen/golf/303001083.html
+167,"Volkswagen Golf, 1997",1.8 AT 3dr.,"1.8 л (90 л.с.), бензин, АКПП, передний, 430 000 км",200000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/228456888.html
+168,"Volkswagen Golf, 2020",2.0 TDI DSG Comfortline,"2.0 л (150 л.с.), дизель, робот, передний, 135 333 км",2200000,Ленинградская (600 км),https://auto.drom.ru/leningradskaya/volkswagen/golf/849825749.html
+169,"Volkswagen Golf, 2013",,"1.4 л (122 л.с.), бензин, робот, передний, 170 000 км",1190000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/412874876.html
+170,"Volkswagen Golf, 2000",1.4 MT Base 5dr.,"1.4 л (75 л.с.), бензин, механика, передний, 500 000 км",300000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/239121672.html
+171,"Volkswagen Golf, 1997",,"1.9 л (110 л.с.), дизель, механика, передний, 326 000 км",430000,Новороссийск (360 км),https://auto.drom.ru/novorossiysk/volkswagen/golf/440935726.html
+172,"Volkswagen Golf, 2007",1.9 TDI DSG Trendline 5dr.,"1.9 л (105 л.с.), дизель, робот, передний, 198 000 км",750000,Темрюк (300 км),https://auto.drom.ru/temryuk/volkswagen/golf/318436234.html
+173,"Volkswagen Golf, 2013",1.2 TSI Trendline 5dr.,"1.2 л (85 л.с.), бензин, механика, передний, 166 000 км",1250000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/53941686.html
+174,"Volkswagen Golf, 1981",,"1.6 л (75 л.с.), бензин, автомат, передний, 200 000 км",1500000,Новороссийск (360 км),https://auto.drom.ru/novorossiysk/volkswagen/golf/53156933.html
+175,"Volkswagen Golf, 2008",,"1.4 л (122 л.с.), бензин, робот, передний, 203 000 км",750000,Минеральные Воды (900 км),https://auto.drom.ru/minvody/volkswagen/golf/496389192.html
+176,"Volkswagen Golf, 2012",,"1.4 л (122 л.с.), бензин, робот, передний, 210 000 км",750000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/487782520.html
+177,"Volkswagen Golf, 1998",1.4 MT Comfortline 5dr.,"1.4 л (75 л.с.), бензин, механика, передний, 390 000 км",380000,Темрюк (300 км),https://auto.drom.ru/temryuk/volkswagen/golf/720912385.html
+178,"Volkswagen Golf, 1988",,"1.8 л (90 л.с.), бензин, АКПП, передний, 300 000 км",350000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/147745845.html
+179,"Volkswagen Golf, 2000",1.6 AT Comfortline 5dr.,"1.6 л (100 л.с.), бензин, АКПП, передний, 410 000 км",440000,Абинск (380 км),https://auto.drom.ru/abinsk/volkswagen/golf/140272227.html
+180,"Volkswagen Golf, 2012",,"1.2 л (105 л.с.), механика, передний, 212 000 км",1150000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/511836645.html
+181,"Volkswagen Golf, 2008",1.4 TSI MT Comfortline 5dr.,"1.4 л (122 л.с.), бензин, механика, передний, 137 000 км",650000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/52070437.html
+182,"Volkswagen Golf, 1990",,"1.8 л (90 л.с.), бензин, механика, передний, 350 000 км",200000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/452298436.html
+183,"Volkswagen Golf, 2007",1.4 TSI MT Comfortline 3dr.,"1.4 л (140 л.с.), бензин, механика, передний, 180 000 км",900000,Феодосия (120 км),https://auto.drom.ru/feodosiya/volkswagen/golf/149549806.html
+184,"Volkswagen Golf, 2012",1.2 TSI DSG Trendline 5dr.,"1.2 л (105 л.с.), бензин, робот, передний, 199 000 км",816000,Севастополь (80 км),https://auto.drom.ru/sevastopol/volkswagen/golf/647559827.html
+185,"Volkswagen Golf, 1989",1.6 MT GL,"1.6 л (72 л.с.), бензин, механика, передний, 200 000 км",280000,Анапа (320 км),https://auto.drom.ru/anapa/volkswagen/golf/329541589.html
+186,"Volkswagen Golf, 1992",1.8 MT GL 5dr.,"1.8 л (90 л.с.), бензин, механика, передний, 101 900 км",100000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/657325851.html
+187,"Volkswagen Golf, 2014",1.6 TDI MT Trendline,"1.6 л (105 л.с.), дизель, механика, передний, 225 000 км",1490000,Таганрог (800 км),https://auto.drom.ru/taganrog/volkswagen/golf/742848122.html
+188,"Volkswagen Golf, 1999",,"1.4 л (75 л.с.), бензин, механика, передний, 200 000 км",400000,Ставрополь (750 км),https://auto.drom.ru/stavropol/volkswagen/golf/605641402.html
+189,"Volkswagen Golf, 2019",,"2.0 л (150 л.с.), дизель, робот, передний, 130 000 км",3000000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/52386581.html
+190,"Volkswagen Golf, 2009",1.4 TSI MT Highline 5dr.,"1.4 л (122 л.с.), бензин, механика, передний, 260 000 км",1150000,Феодосия (120 км),https://auto.drom.ru/feodosiya/volkswagen/golf/451496785.html
+191,"Volkswagen Golf, 2003",1.4 MT Economy 5dr.,"1.4 л (75 л.с.), бензин, механика, передний, 256 000 км",560000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/910914160.html
+192,"Volkswagen Golf, 2013",1.4 TSI DSG Highline 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 126 400 км",1299000,Севастополь (80 км),https://auto.drom.ru/sevastopol/volkswagen/golf/375499280.html
+193,"Volkswagen Golf, 2012",,"1.4 л (122 л.с.), бензин, робот, передний, 50 000 км",1600000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/812213168.html
+194,"Volkswagen Golf, 1990",,"1.6 л (69 л.с.), бензин, механика, передний, 100 000 км",250000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/131307735.html
+195,"Volkswagen Golf, 2014",,"1.4 л (122 л.с.), бензин, робот, передний, 181 066 км",1275000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/117197198.html
+196,"Volkswagen Golf, 2012",,"1.2 л (105 л.с.), бензин, механика, передний, 179 000 км",1250000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/637555687.html
+197,"Volkswagen Golf, 1993",,"1.6 л (75 л.с.), бензин, механика, передний, 41 200 км",130000,Пятигорск (900 км),https://auto.drom.ru/pyatigorsk/volkswagen/golf/815200953.html
+198,"Volkswagen Golf, 1979",,"1.5 л (50 л.с.), дизель, механика, передний, 75 000 км",400000,Таганрог (800 км),https://auto.drom.ru/taganrog/volkswagen/golf/712304759.html
+199,"Volkswagen Golf, 2009",2.0 TSI DSG GTI 5dr.,"2.0 л (210 л.с.), бензин, робот, передний, 300 000 км",1390000,Темрюк (300 км),https://auto.drom.ru/temryuk/volkswagen/golf/53367257.html
+200,"Volkswagen Golf, 2010",,"1.6 л (102 л.с.), бензин, робот, передний, 180 818 км",1130000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/854926291.html
+201,"Volkswagen Golf, 2001",,"1.6 л (102 л.с.), бензин, механика, передний, 487 152 км",385000,Севастополь (80 км),https://auto.drom.ru/sevastopol/volkswagen/golf/631167245.html
+202,"Volkswagen Golf, 2010",,"1.6 л (102 л.с.), бензин, механика, передний",970000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/124348681.html
+203,"Volkswagen Golf, 2002",1.6 MT Comfortline 5dr.,"1.6 л (105 л.с.), бензин, механика, передний, 283 186 км",580000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/481968014.html
+204,"Volkswagen Golf, 1997",1.6 AT Comfortline,"1.6 л (101 л.с.), бензин, АКПП, передний, 321 000 км",350000,Севастополь (80 км),https://auto.drom.ru/sevastopol/volkswagen/golf/261764146.html
+205,"Volkswagen Golf, 2014",,"1.4 л (122 л.с.), бензин, механика, передний, 62 500 км",1250000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/823719438.html
+206,"Volkswagen Golf, 2016",,"1.8 л (170 л.с.), бензин, АКПП, передний, 164 172 км",2200000,Саки (50 км),https://auto.drom.ru/saky/volkswagen/golf/719110329.html
+207,"Volkswagen Golf, 2010",,"1.4 л (122 л.с.), бензин, робот, передний, 230 000 км",900000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/644155546.html
+208,"Volkswagen Golf, 2011",1.4 TSI DSG Style 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 220 770 км",850000,Ставрополь (750 км),https://auto.drom.ru/stavropol/volkswagen/golf/833225235.html
+209,"Volkswagen Golf, 1987",1.8 MT Carat,"1.8 л (90 л.с.), бензин, механика, передний, 100 000 км",101000,Керчь (210 км),https://auto.drom.ru/kerch/volkswagen/golf/231328975.html
+210,"Volkswagen Golf, 2013",1.4 TSI DSG Highline 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 150 000 км",1450000,Краснодар (450 км),https://auto.drom.ru/krasnodar/volkswagen/golf/739444555.html
+211,"Volkswagen Golf, 2019",,"1.5 л (130 л.с.), бензин, робот, передний, 110 000 км",1920000,Кропоткин (600 км),https://auto.drom.ru/kropotkin/volkswagen/golf/553360922.html
+212,"Volkswagen Golf, 2013",1.4 TSI DSG Comfortline 5dr.,"1.4 л (122 л.с.), бензин, робот, передний, 170 000 км",1349000,Ростов-на-Дону (700 км),https://auto.drom.ru/rostov-na-donu/volkswagen/golf/659113074.html
+213,"Volkswagen Golf, 1992",,"1.8 л (90 л.с.), бензин, механика, передний, 200 000 км",220000,Евпатория (80 км),https://auto.drom.ru/yevpatoriya/volkswagen/golf/567693911.html
+214,"Volkswagen Golf, 2013",1.2 TSI DSG Comfortline 5dr.,"1.2 л (105 л.с.), бензин, робот, передний, 174 000 км",1140000,Раевская (340 км),https://auto.drom.ru/raevskaya/volkswagen/golf/322614849.html
+215,"Volkswagen Golf, 2018",1.6 TDI DSG Join,"1.6 л (115 л.с.), дизель, робот, передний, 113 000 км",1825000,Симферополь,https://auto.drom.ru/simferopol/volkswagen/golf/219124837.html
+216,"Volkswagen Golf, 2000",,"1.6 л (88 л.с.), дизель, механика, передний, 100 000 км",115000,Прохладный (1 000 км),https://auto.drom.ru/prohladniy/volkswagen/golf/54009506.html
