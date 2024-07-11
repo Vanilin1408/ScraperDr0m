@@ -70,13 +70,15 @@ def parse_site(base_url: str) -> None:
     max_page: int = amount_ads // 20 + 1 if amount_ads % 20 != 0 else amount_ads // 20  # the last page on site
     list_cars: list = []  # advertisement list
     id_car: int = 0  # var for car ID in table
-    dict_buff: dict = {'<id>': 0,  # ads (car) attributes
-                 '<model>': None,
-                 '<equipment>': None,
-                 '<description>': None,
-                 '<price>': None,
-                 '<location>': None,
-                 '<link>': None}
+    dict_buff: dict = {
+        '<id>': 0,  # ads (car) attributes
+        '<model>': None,
+        '<equipment>': None,
+        '<description>': None,
+        '<price>': None,
+        '<location>': None,
+        '<link>': None
+    }
     print(f'Pages count: {max_page}')
 
     postfix_url: str = ''    # postfix for processing url with '/?distance=n'
@@ -112,7 +114,8 @@ def parse_site(base_url: str) -> None:
                 section = response_soup.find('div', class_=name_of_main_section_class)
                 blocks = section.find_all('div', class_=name_of_blocks_class)
             except AttributeError:
-                print(f'Lost page - {ind_page}, need to check tag names.\n If the program skip ALL the PAGES try contacting support\n')     # in case of failure
+                print(f'Lost page - {ind_page}, need to check tag names.\n If the program skip ALL the PAGES try '
+                      f'contacting support\n')     # in case of failure
                 continue
         else:
             blocks = section.find_all('div', class_=name_of_blocks_class)
