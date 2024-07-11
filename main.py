@@ -55,7 +55,7 @@ def parse_site(base_url: str) -> None:
     try:
         # Take a tag info about count and convert to "int"
         str_info_count_ads: str = response_soup.find('div', class_='css-1xkq48l eckkbc90').text.split(' ')[0]
-        amount_ads: int = int(''.join([char for char in str_info_count_ads if char.isdigit()])) # amount of advertisements
+        amount_ads: int = int(''.join([char for char in str_info_count_ads if char.isdigit()]))  # amount of ads
     except AttributeError:
         try:  # Try to count the pages in a different way, checking the correctness of the link.
             str_info_count_ads: str = response_soup.find('a', class_='css-14yriw2 e1px31z30').text.split(' ')[0]
@@ -104,8 +104,8 @@ def parse_site(base_url: str) -> None:
         name_of_main_section_class: str = "css-1nvf6xk ejck0o60"
         name_of_blocks_class: str = "css-1f68fiz ea1vuk60"
 
-        section = response_soup.find('div', class_=name_of_main_section_class) # get section with blocks
-        if section is None: # CAPTCHA bypass
+        section = response_soup.find('div', class_=name_of_main_section_class)  # get section with blocks
+        if section is None:  # CAPTCHA bypass
             try:
                 print('Сaught the captcha or error by TAG NAME, now trying again (*_*)')
                 time.sleep(2)     # delay for current page, because captcha
